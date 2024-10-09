@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Angular, Vue.js, Django, Express.js, ...**
 
-- 🤝 I’m looking for help with **Errand Project**
+- 🤝 I’m looking for help with **My Errand Project**
 
 - 👨‍💻 All of my projects are available at [Coming_Soon](Coming_Soon)
 
