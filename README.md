@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cook-iess&show_icons=true&locale=en" alt="cook-iess" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuki44&" alt="kuki44" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cook-iess&" alt="kuki44" /></p>
