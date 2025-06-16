@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cook-iess&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cook-iess&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-stats.vercel.app/api?username=cook-iess&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </div>
 
