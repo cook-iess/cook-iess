@@ -13,7 +13,7 @@
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=cook-iess&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;" />
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=cook-iess&theme=dark&hide_border=false" />
 </div>
 
