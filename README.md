@@ -10,13 +10,15 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cook-iess&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=cook-iess&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cook-iess&theme=dark&hide_border=false" />
 </div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cook-iess&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=cook-iess&theme=dark&hide_border=false" />
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
