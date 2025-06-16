@@ -11,8 +11,8 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; gap: 30px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cook-iess&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cook-iess&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=cook-iess&theme=dark&hide_border=false" />
 </div>
 
