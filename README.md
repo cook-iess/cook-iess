@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My personal website<br>🌱 I’m currently learning Express.js and Django<br>🤝 I’m looking for help with My Errand Project<br>👨‍💻 All of my projects are available at Coming_Soon<br>💬 Ask me about React, PHP, Tailwind<br>📫 How to reach me - ekramsiraj32@gmail.com<br>⚡ Fun fact I’m better at coding than designing!
+🔭 I’m currently working on a website for Ketar Aluminium <br>🌱 I’m currently learning Express.js and Django<br>🤝 I’m looking for help with My Errand Project<br>👨‍💻 All of my projects are available at Coming_Soon<br>💬 Ask me about React, PHP, Tailwind<br>📫 How to reach me - ekramsiraj32@gmail.com<br>⚡ Fun fact I’m better at coding than designing!
 
 
 ## 🌐 Socials:
